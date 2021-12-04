@@ -8,7 +8,7 @@ Markdown is a lightweight markup language that u can use to add formatting eleme
 
 # Basic writing and formatting syntax
 
-## -Headings
+## Headings
 
 to create heading, add on to six # symbols before your heading text. The number of # you use will determine the size of the heading. for example:
 
@@ -37,7 +37,7 @@ Muhammad _Ricky_ Firdaus
 ## Bold and Italic
 This text is ***really important***.
 
-### All bold and italic
+## All bold and italic
 **_All text is important_**.
 
 ## Strikethrough
