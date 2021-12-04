@@ -40,11 +40,10 @@ Muhammad _Ricky_ Firdaus
 
 ## Bold and Italic
 
-To emphasize text with bold and italics at the same time, add three asterisks(***) or underscores(**) before and after a word or phrase. To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.
+To emphasize text with bold and italics at the same time, add three asterisks or underscore before and after a word or phrase. To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.
 This text is ***really important***.
 
 ## Strikethrough
 
-To Strikethrough text, add this type (~~).
-example:
+To Strikethrough text add ~~
 ~~This was mistaken text~~
