@@ -28,8 +28,8 @@ and the rendered output must be like this:
 
 ## Bold
 
-To bold text, add two asterisks(**) or underscores(\_\_) before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters. for example:
-i love **you\*\*
+To bold text, add two asterisks(**) or underscores(__) before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters. for example:
+i love **you**
 **i love you**
 
 ## Italic
@@ -40,8 +40,8 @@ Muhammad _Ricky_ Firdaus
 
 ## Bold and Italic
 
-To emphasize text with bold and italics at the same time, add three asterisks(*\*\*) or underscores(**) before and after a word or phrase. To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.
-This text is ***really important\*\_\_.
+To emphasize text with bold and italics at the same time, add three asterisks(***) or underscores(**) before and after a word or phrase. To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.
+This text is ***really important***.
 
 ## Strikethrough
 
