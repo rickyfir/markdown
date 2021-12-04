@@ -27,20 +27,14 @@ and the rendered output must be like this:
 ###### The largest smallest heading
 
 ## Bold
-
-To bold text, add two asterisks(**) or underscores(__) before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters. for example:
 i love **you**.
 **i love you**
 
 ## Italic
-
-To italicize text, add one asterisk(*) or underscore(\_) before and after a word or phrase. To italicize the middle of a word for emphasis, add one asterisk without spaces around the letters.
 *hello*.
 Muhammad _Ricky_ Firdaus
 
 ## Bold and Italic
-
-To emphasize text with bold and italics at the same time, add three asterisks or underscore before and after a word or phrase. To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.
 This text is ***really important***.
 
 ### All bold and italic
