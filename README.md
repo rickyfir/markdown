@@ -38,10 +38,7 @@ Muhammad _Ricky_ Firdaus
 This text is ***really important***.
 
 ### All bold and italic
-
 **_All text is important_**.
 
 ## Strikethrough
-
-To Strikethrough text add ~~
 ~~This was mistaken text~~
