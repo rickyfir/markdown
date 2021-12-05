@@ -27,11 +27,11 @@ and the rendered output must be like this:
 ###### The largest smallest heading
 
 ## Bold
-i love **you**.
-**i love you**
+This text is **bold**.  
+**text all bold**
 
 ## Italic
-*hello*.
+*hello*.  
 Muhammad _Ricky_ Firdaus
 
 ## Bold and Italic
@@ -42,3 +42,64 @@ This text is ***really important***.
 
 ## Strikethrough
 ~~This was mistaken text~~
+
+## Blockquotes
+> To create a blockquotes, add a > in front of paragraph.
+
+## Blockquotes with multiple paragraphs 
+> blockquootes one  
+> blockquootes two  
+> blockquootes three  
+
+## Nested Blockquotes
+> blockquotes one  
+>
+>> blockquotes two and blockquotes three  
+
+## Blockquotes with Other Element  
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+
+## Ordered List
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
+
+## Unordered List
+added dashed ( - ),asterisk( * ),or plus sign( + ) in front of line items. Indent one or more itemsto create a nested list.
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
+
+## Starting Unordered List Items With Numbers
+u can use blackslash ( / )
+- 1968\. A great year!
+- I think 1969 was second best.
+
+### Adding elements in list 
+* This is the first list item.
+* Here's the second list item.
+
+    I need to add another paragraph below the second list item.
+
+* And here's the third list item. 
+
+### Blockquotes 
+* This is the first list item.
+* Here's the second list item.
+
+    > A blockquote would look great below the second list item.
+
+* And here's the third list item.
+
+# Code Blocks
