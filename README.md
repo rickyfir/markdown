@@ -44,3 +44,36 @@ All Markdown application support these elements.
 | Horizontal rule | --- |
 | Link | `[title](https://www.example.com)` |
 | Image | `![alt text](image.jpg)` |
+
+---
+
+# Extended syntax
+
+These elements extended the basic syntax by adding additional features.
+Not all markdown applications support these elements.
+| Element | Markdown syntax |
+| ------ | ------|
+| Table | `| Syntax | Description |` |
+| | `| ----------- | ----------- |` |
+| | `| Header | Title |` |
+| | `| Paragraph | Text |` |
+| Fenced code block | ` ``` ` |
+| | `{` |
+| |`"firstName": "Jhon",`|
+| |`"lastName": "Smith",`|
+| | `"Age": 25`|
+| | `}` |
+| | ` ``` ` |
+| Footnote | Here's a sentence with a footnot.[^1] |
+| | [^1]: This is the footnote. |
+| Heading ID | ### My great heading {#custome-id} |
+| Definition list | term |
+| | : definition |
+| Strikethrough | `~~the world is flat.~~` |
+| Task list | - [x] write the press release |
+| | - [ ] update the website |
+| | - [ ] contact the media |
+| emoji | That is so funny! :joy: |
+| highlight | I need to highlight these `==very important words==`. |
+| Subscript | `H~2~O` |
+| Superscript | `X^2^` |
