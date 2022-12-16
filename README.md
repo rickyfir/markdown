@@ -53,10 +53,10 @@ These elements extended the basic syntax by adding additional features.
 Not all markdown applications support these elements.
 | Element | Markdown syntax |
 | ------ | ------|
-| Table | `| Syntax | Description |` |
-| | `| ----------- | ----------- |` |
-| | `| Header | Title |` |
-| | `| Paragraph | Text |` |
+| Table | `edit this markdown!`| Syntax | Description | |
+| | `edit this markdown!`| ----------- | ----------- | |
+| | `edit this markdown!`| Header | Title | |
+| | `edit this markdown!`| Paragraph | Text | |
 | Fenced code block | ` ``` ` |
 | | `{` |
 | |`"firstName": "Jhon",`|
